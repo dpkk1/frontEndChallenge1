@@ -1,0 +1,62 @@
+img{
+  border-radius: 50%;
+  float: left;
+  height: 60px;
+  width:60px;
+  margin-right: 20px;
+}
+
+.box{
+  background-color:#560764;
+  border-radius: 5%;
+  padding: 2% ;
+  margin:1% 2%;
+}
+.box h4,p{
+  color:white;
+}
+.box h6{
+  color:violet;
+}
+
+
+h1, h4, h5, p{
+  font-size: 15px;
+  font-family: sans-serif;
+}
+
+.up1, .up2{
+  margin: 10% 15%;
+}
+.up1 h1{
+  font-weight: bold;
+  color: purple;
+}
+.up1 p{
+  color: grey;
+}
+.up2 p{
+  color:purple;
+  font-weight: bolder;
+  line-height: 1.5;
+  padding: 5%;
+  position: relative;
+  left:25px;
+  background-color: #f4eeff;
+  z-index: -1;
+  border-radius: 6%;
+}
+.up2 h5{
+  float: left;
+  line-height: 2.5;
+  margin: 1%;
+  padding-left: 20px;
+}
+.b2{
+  position: absolute;
+  top: 20px;
+}
+.b3{
+  position: absolute;
+  top:50px;
+}
